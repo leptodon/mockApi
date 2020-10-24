@@ -7,7 +7,7 @@
 			"end_time" : "2020-10-25T09:45:00Z",
 			"media": {
                 "lesson_image": {
-                    "uri": "/c4x/AdelaideX/HumBio101x/asset/image002.jpg"
+                    "uri": "https://github.com/leptodon/mockApi/raw/main/avatar.png"
                 },
                 "lesson_video": {
                     "uri": null
