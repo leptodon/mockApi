@@ -19,6 +19,46 @@
             },
             "org": "Vasya Pupkin",
             "short_description": ""
+		},
+		{
+			"lesson_id": "0002",
+			"name" : "History",
+			"start_time" : "2020-10-25T10:00:00Z",
+			"end_time" : "2020-10-25T10:45:00Z",
+			"media": {
+                "lesson_image": {
+                    "uri": "https://raw.githubusercontent.com/leptodon/mockApi/main/avatar.jpg"
+                },
+                "lesson_video": {
+                    "uri": null
+                },
+                "lesson_description": {
+                	"text": "Some text",
+                	"image_uri": null
+                }
+            },
+            "org": "Olga Vishnevaya",
+            "short_description": ""
+		},
+		{
+			"lesson_id": "0003",
+			"name" : "Literature",
+			"start_time" : "2020-10-25T11:00:00Z",
+			"end_time" : "2020-10-25T11:45:00Z",
+			"media": {
+                "lesson_image": {
+                    "uri": "https://raw.githubusercontent.com/leptodon/mockApi/main/avatar.jpg"
+                },
+                "lesson_video": {
+                    "uri": null
+                },
+                "lesson_description": {
+                	"text": "Some text",
+                	"image_uri": null
+                }
+            },
+            "org": "Viktor Sedoi",
+            "short_description": ""
 		}
 	]
 }
